@@ -11,6 +11,7 @@ return (
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/lista">Lista</Nav.Link>
+            <Nav.Link href="/produtos">Produtos</Nav.Link>
           </Nav>
         </Navbar.Collapse>
     </Navbar>
